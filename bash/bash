@@ -1,3 +1,2 @@
 echo ‘#!/bin/bash’>school
-echo “School”>>school
-
+echo “School”>>school 
